@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1f2937"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <rect x="380" y="140" width="440" height="560" rx="34" fill="#111827" stroke="#fcd34d" stroke-width="8"/>
+  <rect x="430" y="240" width="340" height="120" rx="18" fill="#374151"/>
+  <rect x="430" y="390" width="150" height="180" rx="18" fill="#4b5563"/>
+  <rect x="620" y="390" width="150" height="180" rx="18" fill="#4b5563"/>
+  <text x="600" y="790" fill="#ffffff" font-size="58" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700">Seat Organizer</text>
+</svg>

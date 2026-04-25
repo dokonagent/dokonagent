@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1b38"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <path d="M420 240h360l-40 430H460z" fill="#111827" stroke="#d1d5db" stroke-width="8"/>
+  <path d="M520 240c0-44 36-80 80-80s80 36 80 80" fill="none" stroke="#d1d5db" stroke-width="16"/>
+  <text x="600" y="410" fill="#86efac" font-size="58" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700">120L</text>
+  <text x="600" y="480" fill="#f9fafb" font-size="44" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700">BAG MASTER</text>
+  <text x="600" y="760" fill="#ffffff" font-size="62" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700">Trash Bags</text>
+</svg>
